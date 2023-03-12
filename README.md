@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
-Simple Recipe Book made with Angular course.
+Simple Recipe Book made with Angular course. Using TypeScript.
 IDE WebStorm.
 
 ## Development server
